@@ -1,0 +1,15 @@
+# Security / Credentials
+api_key.txt
+
+# Local Vector Database
+chroma_db/
+
+# Data and Output Folders
+data/
+output/
+
+# Python and Jupyter Auto-generated Files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
