@@ -34,3 +34,8 @@ To run this notebook locally or in Google Colab, you must provide a valid API ke
 * `.gitignore`: Repository rules to prevent uploading credentials, raw Parquet files, or local databases.
 * `api_key.txt`: Create this file for secure API key loading.
 * `docs/`: Contains 7 curated pdf documents. (Code for programmatic download included, however it is commented out as one pdf site increased security to prevent scraping)
+
+#### AI Disclosure:
+Artificial intelligence tools such as Google Gemini were used during the development of this project to assist with programming support, syntax debugging, and the final presentation of results. Specifically, Gemini was used to assist with output formatting; including structuring console print statements for readability, and organizing the repository documentation (`README.md` and `.gitignore`).
+
+All architectural design choices, PySpark SQL query logic, RAG pipeline implementation, and analytical conclusions were independently developed and executed. The AI tools served solely as a supplementary aid for formatting and technical troubleshooting, and were not used as a substitute for performing the core data engineering or analysis.
